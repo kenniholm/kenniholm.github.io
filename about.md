@@ -11,7 +11,7 @@ C#
 MySql
 .Net Framework
 ASP .Net Core
-## 4. Speciale emner
+#### 4. Semester emner
 Kotlin
 Datavisualisering
 
