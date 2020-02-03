@@ -7,13 +7,13 @@ permalink: /about/
 Datamatiker studerende ved UCL Erhvervsakademi og Professionshøjskole
 
 ### Kendte sprog og frameworks
-C#
-MySql
-.Net Framework
-ASP .Net Core
+&bull; C# <br>
+&bull; MySql <br>
+&bull; .Net Framework <br>
+&bull; ASP .Net Core <br>
 #### 4. Semester emner
-Kotlin
-Datavisualisering
+&bull; Kotlin <br>
+&bull; Datavisualisering <br>
 
 ### Kontakt
 
