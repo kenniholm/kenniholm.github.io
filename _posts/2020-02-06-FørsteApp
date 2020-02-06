@@ -1,0 +1,11 @@
+---
+layout: post
+title: Første app i Kotlin
+---
+I dag fik jeg lavet min første lille udgave af en app i Kotlin, <br>
+hvor jeg lavede 2 simple input felter som kunne tage dit Navn og Efternavn som input. <br>
+Så viser den i en anden label dit samlede navn. Det gjorde jeg for at prøve at lave en smule UI <br>
+og samtidig behandle det data jeg fik ind i noget code-behind. <br>
+Her er et lille eksempel på min lille app og dens code-behind: <br>
+![](/images/firstappPIC02-06.jpg)
+![](/imgages/codepic02-06.png)
