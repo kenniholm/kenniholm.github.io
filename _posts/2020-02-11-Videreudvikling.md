@@ -13,7 +13,7 @@ Her er det google kursus jeg tog for at komme godt igang med intents og best pra
 https://classroom.udacity.com/courses/ud9012 <br>
 <br>
 Billeder af det kode jeg kom frem til for at opnå mit mål: <br>
-Activity 1:
+Activity 1: <br>
 ![](/images/Mainact.PNG) <br>
 Activity 2: <br>
 ![](/images/Mainactt2.PNG)
