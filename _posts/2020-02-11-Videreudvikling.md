@@ -10,10 +10,10 @@ Jeg brugte en tutorial fra google som også forklarede en masse best practices o
 at finde sine views med ID. Hvis man ikke gjorde det i applikationer som skulle finde mange views eller tage mange kliks,<br>
 kunne den komme til at lagge og blive langsom.<br>
 Her er det google kursus jeg tog for at komme godt igang med intents og best practices:<br>
-![](https://classroom.udacity.com/courses/ud9012) <br>
+https://classroom.udacity.com/courses/ud9012 <br>
 <br>
 Billeder af det kode jeg kom frem til for at opnå mit mål: <br>
 Activity 1:
-![](/imgages/Mainact.png) <br>
+![](/images/Mainact.PNG) <br>
 Activity 2: <br>
-![](/images/Mainactt2.png)
+![](/images/Mainactt2.PNG)
