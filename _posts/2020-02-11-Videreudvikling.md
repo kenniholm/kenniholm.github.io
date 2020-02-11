@@ -9,7 +9,7 @@ Jeg brugte en tutorial fra google som også forklarede en masse best practices o
 at finde sine views via ID. Hvis man ikke benyttede sig af det i store applikationer som skulle finde mange views eller tage mange kliks,
 kunne den komme til at lagge og blive langsomt.<br>
 Her er det google kursus jeg tog for at komme godt igang med intents og best practices:<br>
-![](https://classroom.udacity.com/courses/ud9012)<br>
+![Google tutorial](https://classroom.udacity.com/courses/ud9012)<br>
 <br>
 PS: Min navngivninger er ikke ligejust de bedste, men da det skulle gå lidt stærkt bare for at prøve tingene af blev de nu engang sådan. <br>
 Billeder af det kode jeg kom frem til for at opnå mit mål: <br>
