@@ -11,6 +11,7 @@ kunne den komme til at lagge og blive langsomt.<br>
 Her er det google kursus jeg tog for at komme godt igang med intents og best practices:<br>
 https://classroom.udacity.com/courses/ud9012 <br>
 <br>
+PS: Min navngivning er ikke ligejust den bedste, men da det skulle gå lidt stærkt bare for at prøve tingene af blev de nu engang sådan. <br>
 Billeder af det kode jeg kom frem til for at opnå mit mål: <br>
 Activity 1: <br>
 ![](/images/Mainact.PNG) <br>
