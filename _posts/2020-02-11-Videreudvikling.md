@@ -7,7 +7,7 @@ videre fra et view til et andet. I det her tilfælde gjorde jeg det med en strin
 <!--more-->
 Jeg brugte en tutorial fra google som også forklarede en masse best practices omkring blandt andet at bruge "lateinit" til<br>
 at finde sine views via ID. Hvis man ikke benyttede sig af det i store applikationer som skulle finde mange views eller tage mange kliks,
-kunne den komme til at lagge og blive langsom.<br>
+kunne den komme til at lagge og blive langsomt.<br>
 Her er det google kursus jeg tog for at komme godt igang med intents og best practices:<br>
 https://classroom.udacity.com/courses/ud9012 <br>
 <br>
