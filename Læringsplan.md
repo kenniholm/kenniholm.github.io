@@ -24,7 +24,7 @@ permalink: /læringsplan/
     <td class="tg-0pky">Jeg har fået sat et basisk<br>view op der kan tage nogle<br>bruger input og vise dataen/<br>sende dem videre til et nyt <br>view. Det gik rigtigt godt med<br>hjælp fra LinkedIn og Youtube.</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Jeg vil gerne opnå en bedre arkitektur i<br>mine apps, og derfor vil jeg lærer at opsætte<br>min app ud fra MVC Mønstret i Kotlin/App</td>
+    <td class="tg-0lax">Jeg vil gerne opnå en bedre arkitektur i<br>mine apps, og derfor vil jeg lærer at opsætte<br>min app ud fra MVP Mønstret i Kotlin/App</td>
     <td class="tg-0lax">Jeg researcher omkring Arkitektur i Kotlin/Android<br><br>-Følger en video tutorial jeg har fundet på Youtube<br>-Læser nærmere på Android Jetpacks (Skulle gøre<br>implementering af dette nemmere)<br></td>
     <td class="tg-0lax">Finde kilder der er nemme at forstå, var<br>ude for i nogle af de videoer/kilder jeg <br>fandt at det enten var svært at forstå<br>eller ikke blev forklaret ordentligt og<br>grundigt nok.</td>
     <td class="tg-0lax"></td>
