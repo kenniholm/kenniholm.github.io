@@ -12,7 +12,7 @@ Datamatiker studerende ved UCL Erhvervsakademi og Professionshøjskole
 &bull; .Net Framework <br>
 &bull; ASP .Net Core <br>
 #### 4. Semester emner
-&bull; Android Appudvikling skrev i Kotlin <br>
+&bull; Android Appudvikling skrevet i Kotlin <br>
 &bull; Datavisualisering <br>
 
 ### Kontakt
