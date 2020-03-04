@@ -8,12 +8,9 @@ permalink: /læringsplan/
 .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#93a1a1;color:#002b36;background-color:#fdf6e3;}
 .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#93a1a1;color:#fdf6e3;background-color:#657b83;}
 .tg .tg-58k6{background-color:#657b83;color:#fdf6e3;border-color:inherit;text-align:left;vertical-align:top}
-.tg .tg-urjj{background-color:#657b83;text-align:left;vertical-align:top}
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
 .tg .tg-yy4q{background-color:#657b83;border-color:inherit;text-align:left;vertical-align:top}
 .tg .tg-bgv9{background-color:#657b83;border-color:#002b36;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-.tg .tg-0qnl{background-color:#657b83;color:#fdf6e3;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
   <tr>
@@ -71,21 +68,21 @@ permalink: /læringsplan/
     <td class="tg-0pky"></td>
   </tr>
   <tr>
-    <td class="tg-0lax">Jeg vil kunne oprette login system til min<br>produkt app med brug af SQLite som DB.</td>
-    <td class="tg-0lax">Jeg researcher omkring brugen af SQLite sammen<br>med Android apps og Kotlin.<br><br>-Søger på google<br>-Youtube videoer</td>
-    <td class="tg-0lax">Vil prøve at understøtte MVP pattern ved<br>denne implementation.</td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0pky">Jeg vil kunne oprette login system til min<br>produkt app med brug af SQLite som DB.</td>
+    <td class="tg-0pky">Jeg researcher omkring brugen af SQLite sammen<br>med Android apps og Kotlin.<br><br>-Søger på google<br>-Youtube videoer</td>
+    <td class="tg-0pky">Vil prøve at understøtte MVP pattern ved<br>denne implementation blandt andet<br>ved hjælp af data binding.</td>
+    <td class="tg-0pky"></td>
   </tr>
   <tr>
-    <td class="tg-0qnl">Cyklus 4</td>
-    <td class="tg-urjj"></td>
-    <td class="tg-urjj"></td>
-    <td class="tg-urjj"></td>
+    <td class="tg-58k6">Cyklus 4</td>
+    <td class="tg-yy4q"></td>
+    <td class="tg-yy4q"></td>
+    <td class="tg-yy4q"></td>
   </tr>
   <tr>
-    <td class="tg-0lax">TBD</td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0pky">TBD</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
   </tr>
 </table>
