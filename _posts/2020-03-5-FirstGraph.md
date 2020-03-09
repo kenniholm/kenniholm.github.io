@@ -24,6 +24,12 @@ var skrevet i Java så jeg måtte omskrive det hele til Kotlin, det var ikke for
 have i baghovedet. Jeg vil selfølgelig prøve at uploade nogle flere eksempler når jeg får bygget nogle lidt flere advancerede
 grafer.
 <br>
+Her er links til nogle af de libraries jeg har kigget på og et link til quickstart guiden til AndroidPlot: <br>
+Link til AAChartCore-Kotlin:
+[https://github.com/AAChartModel/AAChartCore-Kotlin](https://github.com/AAChartModel/AAChartCore-Kotlin) <br>
+Link til AndroidPlot quickstart guide: <br>
+[https://github.com/halfhp/androidplot/blob/master/docs/quickstart.md](https://github.com/halfhp/androidplot/blob/master/docs/quickstart.md) <br>
+<br>
 <br>
 Billeder af min første graf og code-behind: <br>
 ![](/images/graf1pic.jpg) <br>
