@@ -25,7 +25,7 @@ have i baghovedet. Jeg vil selfølgelig prøve at uploade nogle flere eksempler 
 grafer.
 <br>
 Her er links til nogle af de libraries jeg har kigget på og et link til quickstart guiden til AndroidPlot: <br>
-Link til AAChartCore-Kotlin:
+Link til AAChartCore-Kotlin: <br>
 [https://github.com/AAChartModel/AAChartCore-Kotlin](https://github.com/AAChartModel/AAChartCore-Kotlin) <br>
 Link til AndroidPlot quickstart guide: <br>
 [https://github.com/halfhp/androidplot/blob/master/docs/quickstart.md](https://github.com/halfhp/androidplot/blob/master/docs/quickstart.md) <br>
