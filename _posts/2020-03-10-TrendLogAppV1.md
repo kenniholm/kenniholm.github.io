@@ -25,6 +25,7 @@ illustration af det jeg har fortalt om og samtidig nogle links til de guides jeg
 **GUIDES:** <br>
 Herunder benyttede jeg mig af disse sektioner: App Navigation, App Architechture <br>
 [https://classroom.udacity.com/courses/ud9012](https://classroom.udacity.com/courses/ud9012) <br>
+**Billeder:** <br>
 Første version af mit login UI: <br>
 ![](/images/trendlogAppV1.jpg) <br>
 Her er en illustration af min MVVM struktur: <br>
