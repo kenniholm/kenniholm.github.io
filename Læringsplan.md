@@ -75,16 +75,16 @@ permalink: /læringsplan/
     <td class="tg-0pky">Jeg fik sat en basisk graf op uden de store problemer<br>ved hjælp af deres egen quickstart guide på<br>deres dokumentation.<br><br>Dette har jeg også lavet et opslag om i Porteføljen.</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Jeg vil få et indblik i hvordan fragments fungere i<br>Kotlin</td>
+    <td class="tg-0lax">Jeg vil få et indblik i hvordan fragments fungere i<br>Kotlin og eventuelt navigation imellem dem.</td>
     <td class="tg-0lax">Jeg researcher omkring Fragments<br><br>-Ser googles egne tutorials<br>-Søger på google hvis jeg mangler yderligere stof.</td>
     <td class="tg-0lax">Have <br>et skarpt øje til om videoer eller anden <br>litteratur understøtter arkitektur og<br>andre mønster vi har benyttet os af i <br>anden undervisning for at sikre kvalitet.</td>
-    <td class="tg-0lax">Jeg har oprettet mit produkt projekts views<br>som fragments og oprettet en Navigations<br>fil. Som står for at oprette actions til at navigere<br>imellem forskellige fragments som bliver i hosted<br>i min main activity. Havde ikke de store problemer<br>ud over at jeg måtte genskabe mit projekt et par<br>gange fordi googles templates var for komplekse<br>for et begynder niveau. Så jeg endte med at bruge<br><br>en clean template og starte fra bunden af hvilket gav<br>pote og bedre forståelse for fragments.</td>
+    <td class="tg-0lax">Jeg har fået en god forståelse for fragments<br>og navigation i Android. Brugte igen googles egen<br>tutorials til at få en god forståelse for fragments.<br></td>
   </tr>
   <tr>
     <td class="tg-0pky">Jeg vil kunne oprette view fragments<br>til login system i min produkt app og style<br>den i xml.</td>
     <td class="tg-0pky">Jeg researcher omkring forskellige styling libraries<br>til android jeg kan importere og bruge i .xml<br><br>-Søger på google<br>-Youtube videoer</td>
     <td class="tg-0pky">Vil prøve at understøtte MVVM pattern ved<br>denne implementation blandt andet<br>ved hjælp af data binding i mit UI og dets<br>code-behind.</td>
-    <td class="tg-0pky">Jeg har fået en god forståelse for fragments<br>og navigation i Android. Brugte igen googles egen<br>tutorials som jeg også har lavet et post om med link<br>til disse tutorials.<br>Post:<br>"Første udkast af TrendLog appen<span style="font-weight:inherit;font-style:inherit">"</span></td>
+    <td class="tg-0pky">Jeg har oprettet mit produkt projekts views<br>som fragments og oprettet en Navigations<br>fil. Som står for at oprette actions til at navigere<br>imellem forskellige fragments som bliver i hosted<br>i min main activity. <br>Havde ikke de store problemer<br>ud over at jeg måtte genskabe mit projekt et par<br>gange fordi googles templates var for komplekse<br>for et begynder niveau. <br>Så jeg endte med at bruge<br>en clean template og starte fra bunden af hvilket gav<br>pote og bedre forståelse for fragments.</td>
   </tr>
   <tr>
     <td class="tg-0lax">Jeg vil researche omkring brugen af "ROOM"<br>i Android så jeg kan opsætte en database i<br>min app.</td>
