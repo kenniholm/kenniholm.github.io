@@ -112,7 +112,7 @@ permalink: /læringsplan/
   </tr>
   <tr>
     <td class="tg-0lax">Jeg vil kunne lave en konkret implementation af<br>AAChart - Kotlin i et testprojekt.</td>
-    <td class="tg-0lax">Jeg vil researche AAChart<br><br><br>-Læse deres quickstart guide<br><br>-Læse andre guides</td>
+    <td class="tg-0lax">Jeg vil researche AAChart<br><br><br>-Læse deres quickstart guide<br>-Læse andre guides</td>
     <td class="tg-0lax">Jeg vil sætte en enkelt graf op ved siden<br>af en anden graf fra AndroidPlot.<br>Så de kan sammenlignes i mit test app for<br>grafer.</td>
     <td class="tg-0lax"></td>
   </tr>
