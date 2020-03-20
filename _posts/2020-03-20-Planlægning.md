@@ -13,6 +13,6 @@ tingene samlet et sted, i stedet for at alle mine planer ligger spredt over det 
 det jeg prøvede at komme til livs.
 <br>
 <br>
-Samtidig med jeg fik oprettet mit trelloboard fik vi også afholdt PO møde idag og jeg fik indsamlet nogle flere tasks som jeg kan putte på
+Samtidig med jeg fik oprettet min tidsplan fik vi også afholdt PO møde idag og jeg fik indsamlet nogle flere tasks som jeg kan putte på
 mit trello board og min tidsplan. Jeg synes jeg er kommet godt tilbage på sporet igen efter min lille meltdown og er klar til at give
 den en skalde fra næste uge af og arbejde målrettet ud fra min tidsplan.
