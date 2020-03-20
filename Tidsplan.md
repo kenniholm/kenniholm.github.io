@@ -1,5 +1,5 @@
 ---
 layout: page
 title: Tidsplan
-permalink: /Tidsplan/
+permalink: /tidsplan/
 ---
