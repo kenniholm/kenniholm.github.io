@@ -10,7 +10,6 @@ permalink: /læringsplan/
 .tg .tg-58k6{background-color:#657b83;color:#fdf6e3;border-color:inherit;text-align:left;vertical-align:top}
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
 .tg .tg-yy4q{background-color:#657b83;border-color:inherit;text-align:left;vertical-align:top}
-.tg .tg-bgv9{background-color:#657b83;border-color:#002b36;text-align:left;vertical-align:top}
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
 <table class="tg">
@@ -22,9 +21,9 @@ permalink: /læringsplan/
   </tr>
   <tr>
     <td class="tg-58k6">Cyklus 1</td>
-    <td class="tg-58k6"></td>
-    <td class="tg-58k6"></td>
-    <td class="tg-58k6"></td>
+    <td class="tg-yy4q"></td>
+    <td class="tg-yy4q"></td>
+    <td class="tg-yy4q"></td>
   </tr>
   <tr>
     <td class="tg-0pky">Jeg<br>skal kunne udvikle en basisk grafisk<br>brugergrænseflade i Kotlin.</td>
@@ -58,7 +57,7 @@ permalink: /læringsplan/
   </tr>
   <tr>
     <td class="tg-58k6">Cyklus 2</td>
-    <td class="tg-58k6"></td>
+    <td class="tg-yy4q"></td>
     <td class="tg-yy4q"></td>
     <td class="tg-yy4q"></td>
   </tr>
@@ -94,7 +93,7 @@ permalink: /læringsplan/
   </tr>
   <tr>
     <td class="tg-58k6">Cyklus 3</td>
-    <td class="tg-bgv9"></td>
+    <td class="tg-yy4q"></td>
     <td class="tg-yy4q"></td>
     <td class="tg-yy4q"></td>
   </tr>
@@ -102,31 +101,31 @@ permalink: /læringsplan/
     <td class="tg-0pky">Jeg vil lave andre datavisualiseringer (grafer)<br>i AndroidPlot i mit graf projekt for at få en<br>bedre forståelse for det library.</td>
     <td class="tg-0pky">Jeg vil researche efter flere tutorials til forskellige grafer.<br><br>-Søger på youtube<br>-Søger på google</td>
     <td class="tg-0pky">Vil prøve at se om jeg kan lave en <br>lidt mere advanceret model end den jeg<br>lavede sidst.</td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Jeg fik lavet et pie chart med lidt animation, det var<br>lidt svært at få til at virke i starten. Men da forståelsen begyndte<br>at falde på plads var det ikke så slemt. Jeg har også lavet et post<br>på forsiden med screenshots af min pie chart.</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Jeg vil researche AAChart - Kotlin for at nå frem<br>til hvordan jeg kan lave et plot i det library.</td>
-    <td class="tg-0lax">Jeg vil researche AAChart<br><br>-Læse deres dokumentation</td>
-    <td class="tg-0lax">Overholde samme kriterier som for<br>AndroidPlot.</td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0pky">Jeg vil researche AAChart - Kotlin for at nå frem<br>til hvordan jeg kan lave et plot i det library.</td>
+    <td class="tg-0pky">Jeg vil researche AAChart<br><br>-Læse deres dokumentation</td>
+    <td class="tg-0pky">Overholde samme kriterier som for<br>AndroidPlot.</td>
+    <td class="tg-0pky">Jeg har fået en god forståelse ud fra dokumentationen omkring<br>brugen af det her library.</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Jeg vil kunne lave en konkret implementation af<br>AAChart - Kotlin i et testprojekt.</td>
-    <td class="tg-0lax">Jeg vil researche AAChart<br><br><br>-Læse deres quickstart guide<br>-Læse andre guides</td>
-    <td class="tg-0lax">Jeg vil sætte en enkelt graf op ved siden<br>af en anden graf fra AndroidPlot.<br>Så de kan sammenlignes i mit test app for<br>grafer.</td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0pky">Jeg vil kunne lave en konkret implementation af<br>AAChart - Kotlin i et testprojekt.</td>
+    <td class="tg-0pky">Jeg vil researche AAChart<br><br><br>-Læse deres quickstart guide<br>-Læse andre guides</td>
+    <td class="tg-0pky">Jeg vil sætte en enkelt graf op ved siden<br>af en anden graf fra AndroidPlot.<br>Så de kan sammenlignes i mit test app for<br>grafer.</td>
+    <td class="tg-0pky">Jeg løb ind i en del problemer under selve installationen af<br>AAChart i mit test projekt. Så jeg har skrevet til personen og hvis<br>ikke jeg har fået svar inden mandag finder jeg bare et andet<br>library at benytte. Men giver den lige et par dage for det her virker<br>som et virkeligt smart library når man først kommer igang. Det kan<br>jeg se ud fra dokumentationen.</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Jeg vil implentere ROOM i min produkt applikation<br>til trendlog, for at få lavet min backend del til<br>mit login system funktionelt.</td>
+    <td class="tg-0pky">Jeg vil implentere ROOM i min produkt applikation<br>til trendlog, for at få lavet min backend del til<br>mit login system funktionelt.</td>
+    <td class="tg-0pky">Se opfølgende tutorials på brugen af ROOM.<br><br>-Googles egen tutorials.</td>
+    <td class="tg-0pky">Skal fortsat overholde min MVVM<br>arkitektur.</td>
+    <td class="tg-0pky">Jeg har fået implementeret det meste backend til mit login<br>system. Det virker nu med en SQLite database, det hele er implementeret<br>med MVVM arkitekturen, det er lave modulært så det er nemt at udskifte<br>dele af systemet, uden at skulle ændre store dele af koden. Der er også opslag<br>omkring hvad jeg løb ind i af problemer osv på forsiden.</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Jeg vil implentere ROOM i min produkt applikation<br>til trendlog, for at få lavet min backend del til<br>mit registrerings system funktionelt.</td>
     <td class="tg-0lax">Se opfølgende tutorials på brugen af ROOM.<br><br>-Googles egen tutorials.</td>
     <td class="tg-0lax">Skal fortsat overholde min MVVM<br>arkitektur.</td>
-    <td class="tg-0lax"></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Jeg vil prøve at bruge et stort dataset fra kaggle<br>til at implementere i en eller flere af mine grafer.</td>
-    <td class="tg-0lax">Jeg researcher<br><br><br>-Kigger på kaggle for at finde det data som jeg<br>synes passer bedst på det jeg vil lave.</td>
-    <td class="tg-0lax">TBD</td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax">Jeg har fået lavet min registrerings del færdig, nu kan en bruger oprette sig<br>og logge ind med det bagefter. Jeg mangler dog stadig noget input validering<br>da den taget alt den får ind ligenu. Men jeg vil kigge på input validering i<br>cyklus 4.</td>
   </tr>
   <tr>
     <td class="tg-58k6">Cyklus 4</td>
@@ -135,9 +134,21 @@ permalink: /læringsplan/
     <td class="tg-yy4q"></td>
   </tr>
   <tr>
-    <td class="tg-0pky">TBD</td>
+    <td class="tg-0pky">Jeg vil prøve at bruge et stort dataset fra kaggle<br>til at implementere i en eller flere af mine grafer.</td>
+    <td class="tg-0pky">Jeg researcher<br><br>-Kigger på kaggle for at finde det data som jeg<br><br>synes passer bedst på det jeg vil lave.</td>
+    <td class="tg-0pky">Jeg vil prøve at lave den interaktiv hvis<br>muligt.</td>
     <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Jeg vil gerne implementere input validering i<br>min produkt app til registrerings systemet.</td>
+    <td class="tg-0lax">Researche input validering.<br><br>-Youtube<br>-Google</td>
+    <td class="tg-0lax">Sørge for at finde nogle gode eksempler<br>ud fra mit research så jeg får dækket<br>mit input validering godt ind.</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Jeg vil få en dybere forståelse for datavisualisering<br>igennem teori.</td>
+    <td class="tg-0lax">Researche datavisualisering som helhed.<br><br>-Finde kilder på google</td>
+    <td class="tg-0lax">Sørge for at finde kilder der går lidt dybere<br>end grafer.</td>
+    <td class="tg-0lax"></td>
   </tr>
 </table>
