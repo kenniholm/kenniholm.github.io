@@ -14,6 +14,10 @@ det er ret simpelt at sætte op. Du implementere en form som tager forskellige i
 I disse individuelle inputs kan du så implementere forskellig validation logik.
 <br>
 <br>
+**Link til vvvalidtor:**
+<br>
+[https://github.com/afollestad/vvalidator](https://github.com/afollestad/vvalidator)
+<br>
 **Her er nogle billeder af hvordan det ser ud for brugeren:**
 <br>
 ![](/images/validationUI.jpg)
