@@ -20,4 +20,4 @@ I disse individuelle inputs kan du så implementere forskellig validation logik.
 <br>
 **Her er et billede af hvordan det fungere i koden:**
 <br>
-![](inputValidator.PNG)
+![](/images/inputValidator.PNG)
