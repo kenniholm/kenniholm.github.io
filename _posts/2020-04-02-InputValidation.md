@@ -11,7 +11,8 @@ formen og om den opretholder den rigtige format.
 Jeg valgte at implementere det via en library fordi der findes så mange smarte. Jeg benyttede mig af noget der hedder vvalidator
 som jeg også vil credit længere nede i mit post hvis man har lyst til at tjekke det ud. Selve implementationen gik meget gnidningsfrit,
 det er ret simpelt at sætte op. Du implementere en form som tager forskellige input objekter som er dine individuelle input felter.
-I disse individuelle inputs kan du så implementere forskellig validation logik.
+I disse individuelle inputs kan du så implementere forskellig validation logik. Jeg kunne også implementere mine binding objekter diretke ind i dette library, da input felterne kunne tage et EditText objekt ind i parametrene, hvilket også var super vigtigt
+med min applikation.
 <br>
 <br>
 **Link til vvvalidtor:**
