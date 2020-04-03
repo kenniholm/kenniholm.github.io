@@ -10,7 +10,6 @@ permalink: /læringsplan/
 .tg .tg-58k6{background-color:#657b83;color:#fdf6e3;border-color:inherit;text-align:left;vertical-align:top}
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
 .tg .tg-yy4q{background-color:#657b83;border-color:inherit;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
 <table class="tg">
   <tr>
@@ -122,10 +121,10 @@ permalink: /læringsplan/
     <td class="tg-0pky">Jeg har fået implementeret det meste backend til mit login<br>system. Det virker nu med en SQLite database, det hele er implementeret<br>med MVVM arkitekturen, det er lave modulært så det er nemt at udskifte<br>dele af systemet, uden at skulle ændre store dele af koden. Der er også opslag<br>omkring hvad jeg løb ind i af problemer osv på forsiden.</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Jeg vil implentere ROOM i min produkt applikation<br>til trendlog, for at få lavet min backend del til<br>mit registrerings system funktionelt.</td>
-    <td class="tg-0lax">Se opfølgende tutorials på brugen af ROOM.<br><br>-Googles egen tutorials.</td>
-    <td class="tg-0lax">Skal fortsat overholde min MVVM<br>arkitektur.</td>
-    <td class="tg-0lax">Jeg har fået lavet min registrerings del færdig, nu kan en bruger oprette sig<br>og logge ind med det bagefter. Jeg mangler dog stadig noget input validering<br>da den taget alt den får ind ligenu. Men jeg vil kigge på input validering i<br>cyklus 4.</td>
+    <td class="tg-0pky">Jeg vil implentere ROOM i min produkt applikation<br>til trendlog, for at få lavet min backend del til<br>mit registrerings system funktionelt.</td>
+    <td class="tg-0pky">Se opfølgende tutorials på brugen af ROOM.<br><br>-Googles egen tutorials.</td>
+    <td class="tg-0pky">Skal fortsat overholde min MVVM<br>arkitektur.</td>
+    <td class="tg-0pky">Jeg har fået lavet min registrerings del færdig, nu kan en bruger oprette sig<br>og logge ind med det bagefter. Jeg mangler dog stadig noget input validering<br>da den taget alt den får ind ligenu. Men jeg vil kigge på input validering i<br>cyklus 4.</td>
   </tr>
   <tr>
     <td class="tg-58k6">Cyklus 4</td>
@@ -140,15 +139,15 @@ permalink: /læringsplan/
     <td class="tg-0pky"></td>
   </tr>
   <tr>
-    <td class="tg-0lax">Jeg vil gerne implementere input validering i<br>min produkt app til registrerings systemet.</td>
-    <td class="tg-0lax">Researche input validering.<br><br>-Youtube<br>-Google</td>
-    <td class="tg-0lax">Sørge for at finde nogle gode eksempler<br>ud fra mit research så jeg får dækket<br>mit input validering godt ind.</td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0pky">Jeg vil gerne implementere input validering i<br>min produkt app til registrerings systemet.</td>
+    <td class="tg-0pky">Researche input validering.<br><br>-Youtube<br>-Google</td>
+    <td class="tg-0pky">Sørge for at finde nogle gode eksempler<br>ud fra mit research så jeg får dækket<br>mit input validering godt ind.</td>
+    <td class="tg-0pky">Det gik rigtigt fint med at få implementeret<br>input validering til min produkt apps registrering<br>og login. Det fungere nu med realtime validation<br>så når brugeren skriver ind opdateres feltet af sig selv<br>med en fejl besked hvis du ikke har tastet det rigtige<br>format. Jeg har også lavet post på porteføljen med dette.</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Jeg vil få en dybere forståelse for datavisualisering<br>igennem teori.</td>
-    <td class="tg-0lax">Researche datavisualisering som helhed.<br><br>-Finde kilder på google</td>
-    <td class="tg-0lax">Sørge for at finde kilder der går lidt dybere<br>end grafer.</td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0pky">Jeg vil få en dybere forståelse for datavisualisering<br>igennem teori.</td>
+    <td class="tg-0pky">Researche datavisualisering som helhed.<br><br>-Finde kilder på google</td>
+    <td class="tg-0pky">Sørge for at finde kilder der går lidt dybere<br>end grafer.</td>
+    <td class="tg-0pky"></td>
   </tr>
 </table>
