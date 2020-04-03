@@ -11,6 +11,8 @@ permalink: /tidsplan/
 .tg .tg-58k6{background-color:#657b83;color:#fdf6e3;border-color:inherit;text-align:left;vertical-align:top}
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
 .tg .tg-k6uu{background-color:#657b83;color:#fdf6e3;border-color:inherit;text-align:left;vertical-align:middle}
+.tg .tg-0qnl{background-color:#657b83;color:#fdf6e3;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
 <table class="tg">
   <tr>
@@ -39,10 +41,18 @@ permalink: /tidsplan/
   </tr>
   <tr>
     <td class="tg-58k6">15</td>
-    <td class="tg-0pky">TBD</td>
-    <td class="tg-0pky">TBD</td>
-    <td class="tg-0pky">TBD</td>
-    <td class="tg-0pky">TBD</td>
+    <td class="tg-0pky">Læs datavisualiserings teori</td>
+    <td class="tg-0pky">Finde nyt library til datavis da AAChart ikke virkede.</td>
+    <td class="tg-0pky">Arbejde på produkt app</td>
+    <td class="tg-0pky">Arbejde på produkt app</td>
     <td class="tg-0pky">Retro / Tilrette portefølje</td>
+  </tr>
+  <tr>
+    <td class="tg-0qnl">16</td>
+    <td class="tg-0lax">TBD</td>
+    <td class="tg-0lax">TBD</td>
+    <td class="tg-0lax">TBD</td>
+    <td class="tg-0lax">TBD</td>
+    <td class="tg-0lax">Retro / Tilrette portefølje</td>
   </tr>
 </table>
