@@ -10,6 +10,7 @@ permalink: /læringsplan/
 .tg .tg-58k6{background-color:#657b83;color:#fdf6e3;border-color:inherit;text-align:left;vertical-align:top}
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
 .tg .tg-yy4q{background-color:#657b83;border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
 <table class="tg">
   <tr>
@@ -133,13 +134,13 @@ permalink: /læringsplan/
     <td class="tg-yy4q"></td>
   </tr>
   <tr>
-    <td class="tg-0pky">Jeg vil prøve at bruge et stort dataset fra kaggle<br>til at implementere i en eller flere af mine grafer.</td>
-    <td class="tg-0pky">Jeg researcher<br><br>-Kigger på kaggle for at finde det data som jeg<br><br>synes passer bedst på det jeg vil lave.</td>
-    <td class="tg-0pky">Jeg vil prøve at lave den interaktiv hvis<br>muligt.</td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Jeg vil kunne lave en toolbar med options menu<br>til mit dashboard</td>
+    <td class="tg-0pky">Jeg researcher<br><br>-Kigger efter tutorials på google.<br>-Kigger android dokumentation</td>
+    <td class="tg-0pky">Jeg vil prøve at lave en option i menuen med<br>funktionel logik.</td>
+    <td class="tg-0pky">Det gik rigtigt godt, jeg fik lavet det jeg satte mig for, men en toolbar i toppen<br>af min app. Samtidig fik jeg også lavet en lille options menu i højre hjørne<br>af min toolbar som indeholder en logout option. Jeg har også lavet et opslag på<br>forsiden omkring dette.</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Jeg vil gerne implementere input validering i<br>min produkt app til registrerings systemet.</td>
+    <td class="tg-0pky">Jeg vil gerne implementere input validering i<br>min produkt app til registrering/login systemet.</td>
     <td class="tg-0pky">Researche input validering.<br><br>-Youtube<br>-Google</td>
     <td class="tg-0pky">Sørge for at finde nogle gode eksempler<br>ud fra mit research så jeg får dækket<br>mit input validering godt ind.</td>
     <td class="tg-0pky">Det gik rigtigt fint med at få implementeret<br>input validering til min produkt apps registrering<br>og login. Det fungere nu med realtime validation<br>så når brugeren skriver ind opdateres feltet af sig selv<br>med en fejl besked hvis du ikke har tastet det rigtige<br>format. Jeg har også lavet post på porteføljen med dette.</td>
@@ -149,5 +150,17 @@ permalink: /læringsplan/
     <td class="tg-0pky">Researche datavisualisering som helhed.<br><br>-Finde kilder på google</td>
     <td class="tg-0pky">Sørge for at finde kilder der går lidt dybere<br>end grafer.</td>
     <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Jeg vil kunne benytte det library der hedder<br>MPAndroidChart</td>
+    <td class="tg-0lax">Researche MPAndroidChart<br><br>-Læse dokumentation<br>-Kigge på eksempler</td>
+    <td class="tg-0lax">Da det misløkkedes med AAChart har jeg<br>nu besluttet mig for at afprøve et som er <br>nemmere at installere. Udover dette skal<br>det bare overholde samme kriterier<br>som AndroidPlot</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Jeg vil prøve at bruge et stort dataset fra kaggle<br>til at implementere i en eller flere af mine grafer.</td>
+    <td class="tg-0lax">Jeg researcher<br><br>-Kigger på kaggle for at finde det data som jeg<br><br>synes passer bedst på det jeg vil lave.</td>
+    <td class="tg-0lax">Jeg vil prøve at lave den interaktiv hvis<br>muligt.</td>
+    <td class="tg-0lax"></td>
   </tr>
 </table>
