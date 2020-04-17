@@ -152,15 +152,21 @@ permalink: /læringsplan/
     <td class="tg-0pky"></td>
   </tr>
   <tr>
-    <td class="tg-0lax">Jeg vil kunne benytte det library der hedder<br>MPAndroidChart</td>
-    <td class="tg-0lax">Researche MPAndroidChart<br><br>-Læse dokumentation<br>-Kigge på eksempler</td>
-    <td class="tg-0lax">Da det misløkkedes med AAChart har jeg<br>nu besluttet mig for at afprøve et som er <br>nemmere at installere. Udover dette skal<br>det bare overholde samme kriterier<br>som AndroidPlot</td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0pky">Jeg vil kunne benytte det library der hedder<br>MPAndroidChart til at lave en basisk graf.</td>
+    <td class="tg-0pky">Researche MPAndroidChart<br><br>-Læse dokumentation<br>-Kigge på eksempler</td>
+    <td class="tg-0pky">Da det misløkkedes med AAChart har jeg<br>nu besluttet mig for at afprøve et som er <br>nemmere at installere. Udover dette skal<br>det bare overholde samme kriterier<br>som AndroidPlot</td>
+    <td class="tg-0pky">Jeg er startet blødt ud og har lavet en linechart,<br>jeg vil bare prøve nu at bruge data fra kaggle<br>til selve visualiseringen. Indtil videre fungere min linechart.<br>Men alt mit data ligner grød på skærmen, da jeg anvender nogle forkerte<br>punkter på forkert måde. Dette skal rettes ind med kommer til at hører under<br>læringsmålet under dette omkring data fra kaggle.</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Jeg vil prøve at bruge et stort dataset fra kaggle<br>til at implementere i en eller flere af mine grafer.</td>
-    <td class="tg-0lax">Jeg researcher<br><br>-Kigger på kaggle for at finde det data som jeg<br><br>synes passer bedst på det jeg vil lave.</td>
-    <td class="tg-0lax">Jeg vil prøve at lave den interaktiv hvis<br>muligt.</td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax">Jeg vil kunne hive data ind fra en CSV fil til<br>datavisualisering.</td>
+    <td class="tg-0lax">Researche CSV<br><br>-Læse omkring OpenCSV til android</td>
+    <td class="tg-0lax">Skal helst kunne være muligt at sortere i dataen<br>efterfølgende så jeg kan få vist værdierne rigtigt<br>på grafen.</td>
+    <td class="tg-0lax">Dette gik rigtigt godt, Open CSV understøtter 2 måder at læse ind fra CSV fil,<br>og jeg benyttede mig af den som læser hele filen ind på en gang. Jeg fulgte bare<br>deres egen dokumentation hvor dette blev vist.</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Jeg vil prøve at sortere i et stort dataset fra kaggle<br>til at implementere i en eller flere af mine grafer.</td>
+    <td class="tg-0pky">Jeg researcher<br><br>-Kigger på kaggle for at finde det data som jeg<br><br>synes passer bedst på det jeg vil lave.</td>
+    <td class="tg-0pky">Jeg vil prøve at lave den interaktiv hvis<br>muligt.</td>
+    <td class="tg-0pky"></td>
   </tr>
 </table>
