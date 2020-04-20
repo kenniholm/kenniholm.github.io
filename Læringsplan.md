@@ -10,7 +10,6 @@ permalink: /læringsplan/
 .tg .tg-58k6{background-color:#657b83;color:#fdf6e3;border-color:inherit;text-align:left;vertical-align:top}
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
 .tg .tg-yy4q{background-color:#657b83;border-color:inherit;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
 <table class="tg">
   <tr>
@@ -158,15 +157,15 @@ permalink: /læringsplan/
     <td class="tg-0pky">Jeg er startet blødt ud og har lavet en linechart,<br>jeg vil bare prøve nu at bruge data fra kaggle<br>til selve visualiseringen. Indtil videre fungere min linechart.<br>Men alt mit data ligner grød på skærmen, da jeg anvender nogle forkerte<br>punkter på forkert måde. Dette skal rettes ind med kommer til at hører under<br>læringsmålet under dette omkring data fra kaggle.</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Jeg vil kunne hive data ind fra en CSV fil til<br>datavisualisering.</td>
-    <td class="tg-0lax">Researche CSV<br><br>-Læse omkring OpenCSV til android</td>
-    <td class="tg-0lax">Skal helst kunne være muligt at sortere i dataen<br>efterfølgende så jeg kan få vist værdierne rigtigt<br>på grafen.</td>
-    <td class="tg-0lax">Dette gik rigtigt godt, Open CSV understøtter 2 måder at læse ind fra CSV fil,<br>og jeg benyttede mig af den som læser hele filen ind på en gang. Jeg fulgte bare<br>deres egen dokumentation hvor dette blev vist.</td>
+    <td class="tg-0pky">Jeg vil kunne hive data ind fra en CSV fil til<br>datavisualisering.</td>
+    <td class="tg-0pky">Researche CSV<br><br>-Læse omkring OpenCSV til android</td>
+    <td class="tg-0pky">Skal helst kunne være muligt at sortere i dataen<br>efterfølgende så jeg kan få vist værdierne rigtigt<br>på grafen.</td>
+    <td class="tg-0pky">Dette gik rigtigt godt, Open CSV understøtter 2 måder at læse ind fra CSV fil,<br>og jeg benyttede mig af den som læser hele filen ind på en gang. Jeg fulgte bare<br>deres egen dokumentation hvor dette blev vist.</td>
   </tr>
   <tr>
     <td class="tg-0pky">Jeg vil prøve at sortere i et stort dataset fra kaggle<br>til at implementere i en eller flere af mine grafer.</td>
     <td class="tg-0pky">Jeg researcher<br><br>-Kigger på kaggle for at finde det data som jeg<br><br>synes passer bedst på det jeg vil lave.</td>
     <td class="tg-0pky">Jeg vil prøve at lave den interaktiv hvis<br>muligt.</td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Jeg fik hevet mit data ind i min applikation via OpenCSV, og sorteret på average score<br>ud fra 2 forskellige elev segmenter og deres præstation til eksamen. Dette fik jeg kørt<br>fint op på en barchart som nu afspejler forskellen perfekt. Jeg har skrevet meget nærmere<br>og mere uddybende omkring dette i mit portefølje opslag "<span style="font-weight:400;font-style:normal">MPAndroidChart med kaggle data</span>"</td>
   </tr>
 </table>
