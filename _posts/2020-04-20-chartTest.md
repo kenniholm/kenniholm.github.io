@@ -13,7 +13,7 @@ kan du også i AndroidPlot men du har ikke samme overblik over dine entries som 
 Jeg løb ikke ind i de store problemer med at få det til at fungere, udover at jeg selfølgelig lige skulle sætte mig ind i dokumentationen
 og finde ud af hvordan jeg ville sortere mit data i forhold til at få det til at give mening på den chart jeg valgte. Samtidig skulle jeg også
 finde en måde at få dataen hevet ud fra en CSV fil som også var et af mine andre læringsmål. Dette gjorde jeg ved hjælp af OpenCSV, som er
-et andet library til android til at udtrække data fra CSV, link og implementation vil være længere nede i billede format.
+et andet library til android til at udtrække data fra CSV filer, link og implementation vil være længere nede i billede format.
 <br>
 <br>
 Jeg valgte at hive denne data ind omkring elevers ydeevne til eksamen og hvordan andre parametre spiller ind, sådan som forældres uddannelse
