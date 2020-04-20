@@ -25,6 +25,8 @@ hvor forældrene har en bachelor, op i mod elever hvor forældrene har et lavere
 
 **Link til MPAndroidChart:** <br>
 [https://github.com/PhilJay/MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) <br>
+**Link til dataset fra kaggle:** <br>
+[https://www.kaggle.com/spscientist/students-performance-in-exams/data](https://www.kaggle.com/spscientist/students-performance-in-exams/data) <br>
 **Link til OpenCSV:** <br>
 [http://opencsv.sourceforge.net/](http://opencsv.sourceforge.net/)
 <br>
