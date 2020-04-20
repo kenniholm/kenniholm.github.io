@@ -41,7 +41,7 @@ hvor forældrene har en bachelor, op i mod elever hvor forældrene har et lavere
 ![](/images/chartTestGetData.PNG)
 <br>
 <br>
-**Min sort metoder som wrapper mine data class objekter til entry objekter:** <br>
+**Min sort metode som wrapper mine data class objekter til entry objekter:** <br>
 ![](/images/chartTestSort.PNG) <br>
 **Min data class hvor jeg gemmer alt min data i:** <br>
 ![](/images/chartTestDataClass.PNG)
