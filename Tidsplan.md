@@ -4,13 +4,17 @@ title: Tidsplan
 permalink: /tidsplan/
 ---
 <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;border-color:#93a1a1;}
-.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#93a1a1;color:#002b36;background-color:#fdf6e3;}
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#93a1a1;color:#fdf6e3;background-color:#657b83;}
+.tg  {border-collapse:collapse;border-color:#93a1a1;border-spacing:0;}
+.tg td{background-color:#fdf6e3;border-color:#93a1a1;border-style:solid;border-width:1px;color:#002b36;
+  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{background-color:#657b83;border-color:#93a1a1;border-style:solid;border-width:1px;color:#fdf6e3;
+  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-lboi{border-color:inherit;text-align:left;vertical-align:middle}
-.tg .tg-58k6{background-color:#657b83;color:#fdf6e3;border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-58k6{background-color:#657b83;border-color:inherit;color:#fdf6e3;text-align:left;vertical-align:top}
+.tg .tg-enw2{background-color:#657b83;border-color:#fdf6e3;color:#fdf6e3;text-align:left;vertical-align:top}
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-.tg .tg-k6uu{background-color:#657b83;color:#fdf6e3;border-color:inherit;text-align:left;vertical-align:middle}
+.tg .tg-k6uu{background-color:#657b83;border-color:inherit;color:#fdf6e3;text-align:left;vertical-align:middle}
+.tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
 <table class="tg">
   <tr>
@@ -63,10 +67,18 @@ permalink: /tidsplan/
   </tr>
   <tr>
     <td class="tg-58k6">18</td>
-    <td class="tg-0pky">TBD</td>
-    <td class="tg-0pky">TBD</td>
-    <td class="tg-0pky">TBD</td>
-    <td class="tg-0pky">TBD</td>
+    <td class="tg-0pky">Lave praktik ansøgning</td>
+    <td class="tg-0pky">Læs datavisualiserings teori</td>
+    <td class="tg-0pky">Arbejde på produkt app</td>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal">Embedd HTML views i produkt app</span><br></td>
     <td class="tg-0pky"><span style="font-weight:400;font-style:normal">Retro / Tilrette portefølje</span></td>
+  </tr>
+  <tr>
+    <td class="tg-enw2">19</td>
+    <td class="tg-0lax">TBD</td>
+    <td class="tg-0lax">TBD</td>
+    <td class="tg-0lax">TBD</td>
+    <td class="tg-0lax">TBD</td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal">Retro / Tilrette portefølje</span><br></td>
   </tr>
 </table>
