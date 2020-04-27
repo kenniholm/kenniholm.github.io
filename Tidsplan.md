@@ -69,7 +69,7 @@ permalink: /tidsplan/
     <td class="tg-58k6">18</td>
     <td class="tg-0pky">Lave praktik ansøgning</td>
     <td class="tg-0pky">Læs datavisualiserings teori</td>
-    <td class="tg-0pky">Arbejde på produkt app</td>
+    <td class="tg-0pky">Lave praktik ansøgning</td>
     <td class="tg-0pky"><span style="font-weight:400;font-style:normal">Embedd HTML views i produkt app</span><br></td>
     <td class="tg-0pky"><span style="font-weight:400;font-style:normal">Retro / Tilrette portefølje</span></td>
   </tr>
