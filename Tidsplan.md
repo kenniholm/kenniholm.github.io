@@ -14,6 +14,7 @@ permalink: /tidsplan/
 .tg .tg-enw2{background-color:#657b83;border-color:#fdf6e3;color:#fdf6e3;text-align:left;vertical-align:top}
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
 .tg .tg-k6uu{background-color:#657b83;border-color:inherit;color:#fdf6e3;text-align:left;vertical-align:middle}
+.tg .tg-0qnl{background-color:#657b83;color:#fdf6e3;text-align:left;vertical-align:top}
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
 <table class="tg">
@@ -75,6 +76,14 @@ permalink: /tidsplan/
   </tr>
   <tr>
     <td class="tg-enw2">19</td>
+    <td class="tg-0pky">Datavisualisering med sorteret data</td>
+    <td class="tg-0pky">praktik ansøgning / lave læringsmål</td>
+    <td class="tg-0pky">Udvide menu i produkt app</td>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal">Læs datavisualiserings teori</span><br></td>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal">Retro / Tilrette portefølje</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-0qnl">20</td>
     <td class="tg-0lax">TBD</td>
     <td class="tg-0lax">TBD</td>
     <td class="tg-0lax">TBD</td>
