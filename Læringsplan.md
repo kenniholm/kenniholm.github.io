@@ -4,12 +4,17 @@ title: Læringsplan
 permalink: /læringsplan/
 ---
 <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;border-color:#93a1a1;}
-.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#93a1a1;color:#002b36;background-color:#fdf6e3;}
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#93a1a1;color:#fdf6e3;background-color:#657b83;}
-.tg .tg-58k6{background-color:#657b83;color:#fdf6e3;border-color:inherit;text-align:left;vertical-align:top}
+.tg  {border-collapse:collapse;border-color:#93a1a1;border-spacing:0;}
+.tg td{background-color:#fdf6e3;border-color:#93a1a1;border-style:solid;border-width:1px;color:#002b36;
+  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{background-color:#657b83;border-color:#93a1a1;border-style:solid;border-width:1px;color:#fdf6e3;
+  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-58k6{background-color:#657b83;border-color:inherit;color:#fdf6e3;text-align:left;vertical-align:top}
+.tg .tg-yuge{background-color:#657b83;border-color:#000000;color:#fdf6e3;text-align:left;vertical-align:top}
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
 .tg .tg-yy4q{background-color:#657b83;border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-5c8i{background-color:#657b83;border-color:#000000;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
 <table class="tg">
   <tr>
@@ -167,5 +172,29 @@ permalink: /læringsplan/
     <td class="tg-0pky">Jeg researcher<br><br>-Kigger på kaggle for at finde det data som jeg<br><br>synes passer bedst på det jeg vil lave.</td>
     <td class="tg-0pky">Jeg vil prøve at lave den interaktiv hvis<br>muligt.</td>
     <td class="tg-0pky">Jeg fik hevet mit data ind i min applikation via OpenCSV, og sorteret på average score<br>ud fra 2 forskellige elev segmenter og deres præstation til eksamen. Dette fik jeg kørt<br>fint op på en barchart som nu afspejler forskellen perfekt. Jeg har skrevet meget nærmere<br>og mere uddybende omkring dette i mit portefølje opslag "<span style="font-weight:400;font-style:normal">MPAndroidChart med kaggle data</span>"</td>
+  </tr>
+  <tr>
+    <td class="tg-yuge">Cyklus 5</td>
+    <td class="tg-yuge"></td>
+    <td class="tg-5c8i"></td>
+    <td class="tg-5c8i"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Jeg vil kunne implementere Trendlogs egne html/JS<br>dashboard views in i min applikation</td>
+    <td class="tg-0lax">Jeg researcher<br><br>-Læser omkring Webviews</td>
+    <td class="tg-0lax">Det skal fungere lige så interaktivt som på<br>deres egen web applikation ellers skal anden løsning<br>findes.</td>
+    <td class="tg-0lax">Det gik fint med at implementere Webview, løb ind i et par problemer med at få det til at vise<br>mit view, den blev ved med at være tom når den loadede. Det viste sig at være fordi<br>Webviewet i XML filen var sat til wrap content på height og dette gjorde at det ikke kunne<br>vises. Ændrede det til match parent og så kunne jeg få det til at vises på den måde som jeg<br>ville have fra start.</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Jeg vil gerne sortere i nogle flere datasets fra kaggle<br>og visualisere dette.</td>
+    <td class="tg-0lax">Jeg researcher<br><br>-Kigger på kaggle for at finde det data som jeg synes<br>passer bedst på det jeg vil lave.</td>
+    <td class="tg-0lax">Skal muligvis understøtte noget teori som giver<br>mening for det data jeg arbejder med. Men kun hvis<br>jeg kan finde noget som passer på.</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Jeg vil kunne implementere dark mode i min<br>applikations menu options på dashboardet.</td>
+    <td class="tg-0lax">Jeg researcher<br><br>-Søger på google omkring andres implementationer<br>for at få noget inspiration til mit eget.</td>
+    <td class="tg-0lax">Skal ikke ændre i graph themet fra trendlog men kun<br>i alle andre panels.</td>
+    <td class="tg-0lax"></td>
   </tr>
 </table>
