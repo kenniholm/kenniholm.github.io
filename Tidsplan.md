@@ -18,6 +18,7 @@ permalink: /tidsplan/
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
 <table class="tg">
+<thead>
   <tr>
     <th class="tg-lboi">Uge</th>
     <th class="tg-lboi">Mandag</th>
@@ -26,6 +27,8 @@ permalink: /tidsplan/
     <th class="tg-0pky">Torsdag</th>
     <th class="tg-0pky">Fredag</th>
   </tr>
+</thead>
+<tbody>
   <tr>
     <td class="tg-k6uu">13</td>
     <td class="tg-lboi">Lave Pie chart færdig i aGraph</td>
@@ -83,11 +86,28 @@ permalink: /tidsplan/
     <td class="tg-0pky"><span style="font-weight:400;font-style:normal">Retro / Tilrette portefølje</span><br></td>
   </tr>
   <tr>
-    <td class="tg-0qnl">20</td>
-    <td class="tg-0lax">TBD</td>
-    <td class="tg-0lax">TBD</td>
-    <td class="tg-0lax">TBD</td>
-    <td class="tg-0lax">TBD</td>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal">Retro / Tilrette portefølje</span><br></td>
+    <td class="tg-58k6">23</td>
+    <td class="tg-0pky">Afrunde læringsmål</td>
+    <td class="tg-0pky">Afrunde læringsmål</td>
+    <td class="tg-0pky">Afrunde læringsmål</td>
+    <td class="tg-0pky">Afrunde læringsmål</td>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal">Retro / Tilrette portefølje</span><br></td>
   </tr>
+  <tr>
+    <td class="tg-0qnl">24</td>
+    <td class="tg-0lax">Produkt video</td>
+    <td class="tg-0lax">Produkt video</td>
+    <td class="tg-0lax">Produkt video</td>
+    <td class="tg-0lax">Produkt video</td>
+    <td class="tg-0lax">Produkt video</td>
+  </tr>
+  <tr>
+    <td class="tg-0qnl">25</td>
+    <td class="tg-0lax">Produkt video / gøre sidste klar til aflevering</td>
+    <td class="tg-0lax">Aflever alt inden kl 12</td>
+    <td class="tg-0lax">TBD</td>
+    <td class="tg-0lax">TBD</td>
+    <td class="tg-0lax">TBD</td>
+  </tr>
+</tbody>
 </table>
