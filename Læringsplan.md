@@ -14,15 +14,17 @@ permalink: /læringsplan/
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
 .tg .tg-yy4q{background-color:#657b83;border-color:inherit;text-align:left;vertical-align:top}
 .tg .tg-5c8i{background-color:#657b83;border-color:#000000;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
 <table class="tg">
+<thead>
   <tr>
     <th class="tg-0pky">Mål</th>
     <th class="tg-0pky">Teknik/Værktøj</th>
     <th class="tg-0pky">Kriterier</th>
     <th class="tg-0pky">Evalurering</th>
   </tr>
+</thead>
+<tbody>
   <tr>
     <td class="tg-58k6">Cyklus 1</td>
     <td class="tg-yy4q"></td>
@@ -150,12 +152,6 @@ permalink: /læringsplan/
     <td class="tg-0pky">Det gik rigtigt fint med at få implementeret<br>input validering til min produkt apps registrering<br>og login. Det fungere nu med realtime validation<br>så når brugeren skriver ind opdateres feltet af sig selv<br>med en fejl besked hvis du ikke har tastet det rigtige<br>format. Jeg har også lavet post på porteføljen med dette.</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Jeg vil få en dybere forståelse for datavisualisering<br>igennem teori.</td>
-    <td class="tg-0pky">Researche datavisualisering som helhed.<br><br>-Finde kilder på google</td>
-    <td class="tg-0pky">Sørge for at finde kilder der går lidt dybere<br>end grafer.</td>
-    <td class="tg-0pky"></td>
-  </tr>
-  <tr>
     <td class="tg-0pky">Jeg vil kunne benytte det library der hedder<br>MPAndroidChart til at lave en basisk graf.</td>
     <td class="tg-0pky">Researche MPAndroidChart<br><br>-Læse dokumentation<br>-Kigge på eksempler</td>
     <td class="tg-0pky">Da det misløkkedes med AAChart har jeg<br>nu besluttet mig for at afprøve et som er <br>nemmere at installere. Udover dette skal<br>det bare overholde samme kriterier<br>som AndroidPlot</td>
@@ -180,21 +176,10 @@ permalink: /læringsplan/
     <td class="tg-5c8i"></td>
   </tr>
   <tr>
-    <td class="tg-0lax">Jeg vil kunne implementere Trendlogs egne html/JS<br>dashboard views in i min applikation</td>
-    <td class="tg-0lax">Jeg researcher<br><br>-Læser omkring Webviews</td>
-    <td class="tg-0lax">Det skal fungere lige så interaktivt som på<br>deres egen web applikation ellers skal anden løsning<br>findes.</td>
-    <td class="tg-0lax">Det gik fint med at implementere Webview, løb ind i et par problemer med at få det til at vise<br>mit view, den blev ved med at være tom når den loadede. Det viste sig at være fordi<br>Webviewet i XML filen var sat til wrap content på height og dette gjorde at det ikke kunne<br>vises. Ændrede det til match parent og så kunne jeg få det til at vises på den måde som jeg<br>ville have fra start.</td>
+    <td class="tg-0pky">Jeg vil kunne implementere Trendlogs egne html/JS<br>dashboard views in i min applikation</td>
+    <td class="tg-0pky">Jeg researcher<br><br>-Læser omkring Webviews</td>
+    <td class="tg-0pky">Det skal fungere lige så interaktivt som på<br>deres egen web applikation ellers skal anden løsning<br>findes.</td>
+    <td class="tg-0pky">Det gik fint med at implementere Webview, løb ind i et par problemer med at få det til at vise<br>mit view, den blev ved med at være tom når den loadede. Det viste sig at være fordi<br>Webviewet i XML filen var sat til wrap content på height og dette gjorde at det ikke kunne<br>vises. Ændrede det til match parent og så kunne jeg få det til at vises på den måde som jeg<br>ville have fra start.</td>
   </tr>
-  <tr>
-    <td class="tg-0lax">Jeg vil gerne sortere i nogle flere datasets fra kaggle<br>og visualisere dette.</td>
-    <td class="tg-0lax">Jeg researcher<br><br>-Kigger på kaggle for at finde det data som jeg synes<br>passer bedst på det jeg vil lave.</td>
-    <td class="tg-0lax">Skal muligvis understøtte noget teori som giver<br>mening for det data jeg arbejder med. Men kun hvis<br>jeg kan finde noget som passer på.</td>
-    <td class="tg-0lax"></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Jeg vil kunne implementere dark mode i min<br>applikations menu options på dashboardet.</td>
-    <td class="tg-0lax">Jeg researcher<br><br>-Søger på google omkring andres implementationer<br>for at få noget inspiration til mit eget.</td>
-    <td class="tg-0lax">Skal ikke ændre i graph themet fra trendlog men kun<br>i alle andre panels.</td>
-    <td class="tg-0lax"></td>
-  </tr>
+</tbody>
 </table>
