@@ -4,6 +4,7 @@ title: Læringsmål
 permalink: /læringsplan/
 ---
 ![](/images/læringsmål1.PNG)<br>
+<br>
 ![](/images/læringsmål2.PNG)<br>
 # Læringsplan <br>
 <style type="text/css">
