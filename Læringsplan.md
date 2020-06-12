@@ -1,10 +1,11 @@
 ---
 layout: page
-title: Læringsplan
+title: Læringsmål
 permalink: /læringsplan/
 ---
-![](/images/Læringsplan1.PNG)
-![](/images/Læringsplan2.PNG)
+![](/images/læringsmål1.PNG)<br>
+![](/images/læringsplan2.PNG)<br>
+#Læringsplan <br>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-color:#93a1a1;border-spacing:0;}
 .tg td{background-color:#fdf6e3;border-color:#93a1a1;border-style:solid;border-width:1px;color:#002b36;
