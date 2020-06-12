@@ -4,7 +4,7 @@ title: Læringsmål
 permalink: /læringsplan/
 ---
 ![](/images/læringsmål1.PNG)<br>
-![](/images/læringsplan2.PNG)<br>
+![](/images/læringsmål2.PNG)<br>
 # Læringsplan <br>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-color:#93a1a1;border-spacing:0;}
